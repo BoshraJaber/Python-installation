@@ -1,4 +1,4 @@
-# Python-installation
+# Python Installation
 Installing Python Tools without using Homebrew
 
 1. Uninstalling Homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"`
