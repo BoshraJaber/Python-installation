@@ -18,5 +18,7 @@ Installing Python Tools without using Homebrew
   * `python --version`
  
  5. Installing Poetry:
-  * `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -`
+  * `curl -sSL https://install.python-poetry.org | python3 -`
   * `poetry --version`
+Note:
+To get the latest Poetry Version: [Poetry Installation Doc](https://python-poetry.org/docs/#installing-with-the-official-installer)
